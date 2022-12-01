@@ -5,7 +5,7 @@
 <h2 align="center"> Resultado </h2>  
 
 <p>
-      <img  src="https://user-images.githubusercontent.com/73318684/193703936-9e8f34fc-9081-4a52-a3d8-76e6f42bc87c.png" width="300" alt="Resultado"/>
+      <img  src="https://github.com/caneto/api_tse/blob/main/Imagem.png" width="300" alt="Resultado"/>
 </p>  
 
 <h3>  TO-DO: Acertar caracteres dos partidos padrão pt-BR </h3>  
